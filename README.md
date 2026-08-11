@@ -41,6 +41,24 @@ Die Anwendung ist in mehrere Bereiche aufgeteilt:
 
 Die Datenbankzugangsdaten werden nicht direkt im Quellcode gespeichert, sondern über eine lokale `.env`-Datei konfiguriert.
 
+## Screenshots
+
+### Buchungsprozess
+
+![Buchungsprozess](src/screenshots/step1.png)
+
+### Zusatzleistungen
+
+![Zusatzleistungen](src/screenshots/step3.png)
+
+### Gutscheinprüfung
+
+![Gutscheinprüfung](src/screenshots/voucher.png)
+
+### Buchungsbestätigung
+
+![Buchungsbestätigung](src/screenshots/step5.png)
+
 ## Installation
 
 1. Repository herunterladen oder klonen.
